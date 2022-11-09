@@ -1,0 +1,41 @@
+
+{
+    "Menu_List": [
+        {
+            "Id":"1",
+            "Name":"Thai Noodle",
+            "Price":200
+
+        },
+
+
+        {
+            "Id":"2",
+            "Name":"Pizza",
+            "Price":400
+        },
+
+
+        {
+            "Id":"3",
+            "Name":"Alfredo Pasta",
+            "Price":600
+        },
+
+
+        {
+            "Id":"4",
+            "Name":"Butter Chicken",
+            "Price":800
+        },
+
+
+        {
+            "Id":"5",
+            "Name":"White Pasta",
+            "Price":1000
+        }
+    ]
+
+}
+
